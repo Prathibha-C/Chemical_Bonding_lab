@@ -10,3 +10,10 @@ Cartesian
 8.460  7.500  7.500   H1   # 0.96 Å in +x direction
 7.500  8.460  7.500   H2   # 0.96 Å in +y direction → 90°
 7.500  7.500  7.500   O
+
+Relaxed
+H2O - 104
+BeH2 - 180
+BH2 - 131
+NH2 - 103
+CH2 - 102
